@@ -9,9 +9,11 @@
 - **Business Interests:** 
   - AI-managed businesses in Malaysia
   - Facebook marketing / e-commerce
-  - Finding trending products for Malaysian market
+  - Renovation business (高端装修 - High-end renovation)
+  - Target market: Chinese & Malay high-end customers in Klang Valley
 
 ## Active Projects
+- **Renovation AI Agent Team:** Building end-to-end AI automation for renovation business
 - **Malaysia Market Research:** Deep research on products suitable for Facebook marketing in Malaysia
 - **Business Opportunities:** Identifying AI-manageable businesses for Malaysian market
 
@@ -23,8 +25,10 @@
 ## Key Decisions
 - 2026-04-03: Completed deep research on Facebook marketing products in Malaysia
 - 2026-04-06: Installed memory enhancement skills
+- 2026-04-06: Designing AI Agent team for renovation business (end-to-end)
 
 ## Important Context
 - Has Azure VM with public IP and domain
 - Running OpenClaw AI assistant
 - Interested in e-commerce, digital marketing, AI business solutions
+- GitHub backup: https://github.com/bsmart4solutions-code/openclaw-workspace
