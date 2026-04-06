@@ -1,0 +1,37 @@
+# Ignore sensitive files
+*.json
+*.log
+*.tmp
+
+# Ignore node_modules
+node_modules/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Keep these specific files
+!AGENTS.md
+!SOUL.md
+!USER.md
+!TOOLS.md
+!IDENTITY.md
+!MEMORY.md
+!HEARTBEAT.md
+!BOOTSTRAP.md
+
+# Keep memory directory structure
+!memory/
+
+# Keep skills directory
+!skills/
+
+# Ignore large files
+*.mp4
+*.zip
+*.tar.gz
+
+# Ignore temporary files
+tmp/
+temp/
+*.swp
