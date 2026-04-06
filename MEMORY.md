@@ -14,8 +14,17 @@
 
 ## Active Projects
 - **Renovation AI Agent Team:** Building end-to-end AI automation for renovation business
+  - Phase 1: Customer Service Agent (in progress)
+  - Planning: Content Creation, Lead Nurturing, Project Management, etc.
 - **Malaysia Market Research:** Deep research on products suitable for Facebook marketing in Malaysia
 - **Business Opportunities:** Identifying AI-manageable businesses for Malaysian market
+
+## Recent Progress
+- 2026-04-06: Created full AI Agent team implementation plan (renovation-ai-team-plan.md)
+- 2026-04-06: Started Customer Service Agent development
+  - Created SKILL.md with FAQ responses
+  - Set up CRM structure (crm/customers/, crm/projects/)
+  - Created response templates
 
 ## Preferences
 - Prefers clear, actionable recommendations
