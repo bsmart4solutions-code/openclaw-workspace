@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "pools": {
+    "fast": {
+      "name": "高速池",
+      "primary": "xiaomi/mimo-v2-flash",
+      "fallback": "minimax/MiniMax-M2.5",
+      "use": "快速响应，简单任务"
+    },
+    "smart": {
+      "name": "智能池",
+      "primary": "xiaomi/mimo-v2-pro",
+      "fallback": "minimax/MiniMax-M2.5",
+      "use": "复杂推理，长思考"
+    },
+    "text": {
+      "name": "文本池",
+      "primary": "minimax/MiniMax-M2.5",
+      "fallback": "deepseek/deepseek-chat",
+      "use": "长文本处理"
+    },
+    "vision": {
+      "name": "视觉池",
+      "primary": "xiaomi/mimo-v2-omni",
+      "fallback": "minimax/MiniMax-M2.5",
+      "use": "图片/视频理解"
+    }
+  }
+}

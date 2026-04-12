@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "task_iron_law": {
+    "max_attempts": 5,
+    "max_tokens_per_task": 20000,
+    "failure_handling": {
+      "record_reason": true,
+      "update_strategy": true,
+      "escalate_after_5_fails": true
+    },
+    "retry_delay_seconds": 30
+  },
+  "context_compression": {
+    "enabled": true,
+    "target_reduction_percent": 22,
+    "preserve_recent_messages": 10
+  }
+}
