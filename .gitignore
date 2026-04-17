@@ -1,18 +1,5 @@
-# OpenClaw Workspace GitHub Backup
-
-## 忽略 (不推送)
-
-- .openclaw/ (运行时数据)
-- memory/daily/ (日常日志太大)
-
-## 推送 (备份)
-
-- AGENTS.md
-- SOUL.md
-- USER.md
-- MEMORY.md
-- IDENTITY.md
-- TOOLS.md
-- config/
-- skills/
-- scripts/
+node_modules/
+multica/
+mcp-servers/
+*.log
+.DS_Store

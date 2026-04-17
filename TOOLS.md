@@ -31,6 +31,20 @@ Things like:
 - Default speaker: Kitchen HomePod
 ```
 
+### Research: Multica (not installed)
+- **What**: Open-source managed agents platform
+- **GitHub**: multica-ai/multica
+- **Features**:
+  - Agents as Teammates (assign tasks like human)
+  - Task lifecycle management (enqueue → claim → complete)
+  - Skill compounding (solutions → reusable skills)
+  - Unified runtimes dashboard
+  - Multi-workspace support
+- **Supports**: Claude Code, Codex, OpenClaw, OpenCode
+- **Stack**: Next.js 16, Go (Chi), PostgreSQL + pgvector
+- **Install**: `curl -fsSL https://raw.githubusercontent.com/multica-ai/multica/main/scripts/install.sh | bash`
+- **Decision**: Not currently needed - OpenClaw + Cron Jobs already cover most features
+
 ## Why Separate?
 
 Skills are shared. Your setup is yours. Keeping them apart means you can update skills without losing your notes, and share skills without leaking your infrastructure.
